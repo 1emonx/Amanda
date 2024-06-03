@@ -1,0 +1,11 @@
+
+
+
+{
+    
+    "train_root1": "/data3/zxx/experiment/4/mosei_train1",
+    "train_root2": "/data3/zxx/experiment/4/mosei_train2",
+    "train_root3": "/data3/zxx/experiment/4/mosei_train3",
+    "val_root": "/data3/zxx/experiment/4/val_mosei.pkl",
+    "test_root": "/data3/zxx/experiment/4/test_mosei.pkl"
+}
